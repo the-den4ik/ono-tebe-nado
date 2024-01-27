@@ -13,7 +13,7 @@
     align-items: center;
     list-style: circle;
     gap: 15px;
-    padding-top: 2px;   
+    padding-top: 2px;  
 }
 
 .header__links-list-item {
@@ -128,7 +128,7 @@
     letter-spacing: 6px;
 }
 
-.aligned-text_right_third{
+.aligned-text_right_third {
     letter-spacing: 6px;
 }
 
