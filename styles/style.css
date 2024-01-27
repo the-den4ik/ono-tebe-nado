@@ -13,8 +13,7 @@
     align-items: center;
     list-style: circle;
     gap: 15px;
-    padding-top: 2px;
-    
+    padding-top: 2px;   
 }
 
 .header__links-list-item {
@@ -22,7 +21,6 @@
     padding-right: 16px;
     letter-spacing: 0.18px;
     text-underline-offset: 4px;
-
 }
 
 .header__links-list-item:first-child {
@@ -31,7 +29,6 @@
 
 .header__links-list-item:last-child {
     padding: 0 6px;
-
 }
 
 .header__links-list-item_no-bullit {
@@ -148,7 +145,6 @@
     font-size: 22px;
     line-height: 30px;
     word-spacing: 18.4px;
-    
 }
 
 .bet-button {
